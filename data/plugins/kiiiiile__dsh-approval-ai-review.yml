@@ -1,0 +1,7 @@
+url: https://github.com/kiiiiile/dsh-approval-ai-review
+name: kiiiiile/dsh-approval-ai-review
+category: security
+tarball: https://github.com/kiiiiile/dsh-approval-ai-review/releases/latest/download/dsh-approval-ai-review.tgz
+description:
+  en: Judges each pending tool-approval ask with one auxiliary model call and auto-grants the safe ones; every other outcome escalates to the human answerers with the review analysis attached.
+  zh: 用一次辅助模型调用判定每个待决的工具审批请求，安全请求自动放行，其余结果附带审核分析转交人工应答者。
